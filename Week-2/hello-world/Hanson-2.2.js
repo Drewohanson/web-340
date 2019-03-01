@@ -8,8 +8,8 @@
 */
 
 //HEADER
-const header = require('../../thomason-header.js');
-console.log(header.display("Drew, "Hanson", "Exercise 2.2") + "\n");
+const header = require('../../hanson-header.js');
+console.log(header.display("Drew", "Hanson", "Exercise 2.2") + "\n");
 
 //Variable declaration
 var express =require('express');
