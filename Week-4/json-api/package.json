@@ -1,0 +1,12 @@
+{
+      "firstName": "Drew",
+      "lastName": "Hanson",
+      "email": "drew.o.hanson@gmail.com",
+      "address": "4856 W. Legacy Springs Dr",
+      "city": "Riverton",
+      "state": "Utah",
+      "zip": "84096",
+      "dependencies": {
+            "express": "^4.16.4"
+      }
+}
