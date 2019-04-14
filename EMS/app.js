@@ -68,7 +68,7 @@ app.use(function(req, res, next) {
 });
 
 //model
-var employee = new Employee({
+var Employee = new Employee({
   firstName: "Drew",
   lastName: "Hanson "
 })
